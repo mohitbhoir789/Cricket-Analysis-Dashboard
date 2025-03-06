@@ -26,3 +26,4 @@ Welcome to a dynamic Tableau dashboard that dives into the thrilling world of OD
   - Open the packaged workbook using **Tableau Reader** or publish on **Tableau Public** (ensure your data is in extract mode).
 
 Unleash the power of data and explore the hidden strategies behind every cricketing showdown!
+![Cricket Dashboard](Docs/dashboard.png)
