@@ -18,4 +18,4 @@ node_modules/
 *.hyper
 
 # Ignore the large CSV file to prevent it from being re-added
-Data/Final_OPIM.twb Files/Data/project/ODI_Match_Data.csv
+data/large_file.csv
