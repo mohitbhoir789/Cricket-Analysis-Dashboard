@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore node modules (if applicable)
+node_modules/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore Tableau temporary files (if any)
+*.tds
+*.tde
+*.hyper
+
+# Ignore the large CSV file to prevent it from being re-added
+Data/Final_OPIM.twb Files/Data/project/ODI_Match_Data.csv
