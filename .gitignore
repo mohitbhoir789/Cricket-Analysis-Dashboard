@@ -18,4 +18,3 @@ node_modules/
 *.hyper
 
 # Ignore the large CSV file to prevent it from being re-added
-data/large_file.csv
